@@ -20,7 +20,7 @@ Run **earnings.py** script.
 If you wish to run the full script set debug_mode variable to **False.**
 
 Credit goes to **kostasx** for code
-https://bountify.co/scrape-earnings-conference-call-transcripts:q
+https://bountify.co/scrape-earnings-conference-call-transcripts
 
 # Plan
 * Add from [FinBert](https://arxiv.org/abs/1908.10063)
